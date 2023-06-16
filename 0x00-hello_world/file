@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+/**
+ * main - run code using puts
+ * Return: 0 on success
+ */
+int main(void)
+{
+    puts("\");
+    return 0;
+}
+
