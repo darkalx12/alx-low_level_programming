@@ -1,4 +1,4 @@
-*
+/*
  * File: 100-elf_header.c
  * Auth: Suara Ayomide
  */
